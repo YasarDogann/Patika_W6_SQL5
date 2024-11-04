@@ -8,7 +8,7 @@ Bu proje, aşağıdaki konuları öğrenmeye yardımcı olmak için tasarlanmı�
 - INNER JOIN kullanımı
 
 
-## ÖDEV 5 KOD:
+## ÖDEV 9 KOD:
 ```sql
 
 /*

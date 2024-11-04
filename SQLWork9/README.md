@@ -1,4 +1,4 @@
-# Patika+ Week6 SQL ile Temel Ödev6 Uygulaması
+# Patika+ Week6 SQL ile Temel Ödev9 Uygulaması
 Merhaba,
 Bu proje SQL ile Patika+ 6.hafta SQL komutları pratik için yapılmış bir uygulamadır.
 
